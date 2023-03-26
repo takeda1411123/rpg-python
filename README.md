@@ -26,3 +26,7 @@ Other features:
 - The background will also be randomly selected. 
 - Items include Chopper's healing items and the ability to call for assistance from shipment. 
 - The assistance from shipment is random and different shipment will appear each time.
+
+
+## contact 
+if you are interested in this game, I will show you directory!

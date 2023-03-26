@@ -26,8 +26,7 @@ def set_event(
         y = random.randint(3, dungeon_height - 4)
         # if mass is floor, create cocoon or box
         if dungeon[y][x] == 0:
-            # dungeon[y][x] = random.choice([1, 2, 2, 2, 2])
-            dungeon[y][x] = random.choice([1, 1, 1, 1, 2])
+            dungeon[y][x] = random.choice([1, 2, 2, 2, 2])
     # ship position
     while True:
         ship_xposition = random.randint(3, dungeon_width - 4)
